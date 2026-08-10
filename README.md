@@ -1,6 +1,7 @@
 <p align="center">
   <img src="img/Activo.jpeg" alt="Activo Project Header" width="100%">
 </p>
+
 # Activo
 
 ### Kids Activities Management Website
