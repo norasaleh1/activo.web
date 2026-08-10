@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Activo.jpeg" alt="Activo Project Header" width="100%">
+  <img src="img/Activo.jpeg" alt="Activo Project Header" width="100%">
 </p>
 # Activo
 
