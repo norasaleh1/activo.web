@@ -6,7 +6,7 @@
 
 ### Kids Activities Management Website
 
-**Activo** is a front-end web application designed to help parents explore, manage, and enroll their children in different activities, while also providing administrators with an organized view of activities and participants.
+**Activo** is a web application designed to help parents explore, manage, and enroll their children in different activities, while also providing administrators with an organized view of activities and participants.
 
 The website brings together activity discovery, coach information, child registration, enrollment, evaluation, schedules, and parent management in one simple and interactive platform.
 
